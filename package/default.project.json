@@ -1,0 +1,9 @@
+{
+	"name": "grid",
+	"tree": {
+		"$className": "Folder",
+		"out": {
+			"$path": "out"
+		}
+	}
+}

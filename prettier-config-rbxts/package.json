@@ -1,0 +1,11 @@
+{
+	"name": "prettier-config-rbxts",
+	"version": "1.0.1",
+	"description": "Prettier Config",
+	"main": "index.json",
+	"license": "MIT",
+	"keywords": [
+		"prettier",
+		"prettier-config"
+	]
+}

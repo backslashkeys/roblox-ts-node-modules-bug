@@ -1,0 +1,21 @@
+{
+	"name": "roblox-ts-node-modules-bug",
+	"private": true,
+	"version": "1.0.0",
+	"workspaces": {
+		"packages": [
+			"./game",
+			"./package",
+			"./tsconfig",
+			"./prettier-config-rbxts",
+			"./eslint-config-rbxts"
+		],
+		"nohoist": [
+			"**/@rbxts/*"
+		]
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"lerna": "^6.0.1"
+	}
+}
